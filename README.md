@@ -8,7 +8,11 @@ Bourbon mixin libraries for Sass ( Bourbon bitters is commented out I never use 
 run npm install
 
 grunt dev - development
+
 grunt build - for deploy ( imagemin, concat & uglify js, minify css file )
+
+use MAMP or Anvil to run locally
+
 
 * 06/25/14: Added Bitters & updates to the index page.
 * 06/26/14: Configured Gruntfile.js for workflow including concat, image minify, uglify, sass, watch (with livereload).
